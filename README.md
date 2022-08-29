@@ -1,7 +1,7 @@
 WHAT IS IT?
 ===========
 We propose a pedestrian simulation model to analyze the impact of social distancing on the stoning ritual of the Islamic pilgrimage. The simulation model analyzes the impact of inter-queue and intra-queue spacing between adjacent pilgrims on the throughput and congestion during the stoning ritual. 
-The NetLogo simulation environment is required to run the simulation model (https://ccl.northwestern.edu/netlogo/).
+The NetLogo simulation environment is required to run the model (https://ccl.northwestern.edu/netlogo/).
 
 HOW IT WORKS
 =============
