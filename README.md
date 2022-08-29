@@ -6,7 +6,7 @@ HOW IT WORKS
 =============
 A reader may refer to the following research paper for model assumptions, locomotion, social distancing, and the stoning components of the model.
  
-Q. M. Ilyas, M. Ahmad, N. Z. Jhanjhi and M. B. Ahmad, "Analyzing the Impact of Social Distancing on the Stoning Ritual of the Islamic Pilgrimage," KSII Transactions on Internet and Information Systems, vol. 16, no. 6, pp. 1953-1972, 2022. DOI: 10.3837/tiis.2022.06.010. (http://itiis.org/journals/tiis/digital-library/25763)
+Q. M. Ilyas, M. Ahmad, N. Z. Jhanjhi and M. B. Ahmad, "Analyzing the Impact of Social Distancing on the Stoning Ritual of the Islamic Pilgrimage," KSII Transactions on Internet and Information Systems, vol. 16, no. 6, pp. 1953-1972, 2022. DOI: 10.3837/tiis.2022.06.010. http://itiis.org/journals/tiis/digital-library/25763
 
 HOW TO USE IT
 =============
@@ -24,4 +24,4 @@ A small number of pilgrims (<0.001%) may get stuck with the walls during the sim
 
 CREDITS AND REFERENCES
 ======================
-Q. M. Ilyas, M. Ahmad, N. Z. Jhanjhi and M. B. Ahmad, "Analyzing the Impact of Social Distancing on the Stoning Ritual of the Islamic Pilgrimage," KSII Transactions on Internet and Information Systems, vol. 16, no. 6, pp. 1953-1972, 2022. DOI: 10.3837/tiis.2022.06.010. (http://itiis.org/journals/tiis/digital-library/25763)
+Q. M. Ilyas, M. Ahmad, N. Z. Jhanjhi and M. B. Ahmad, "Analyzing the Impact of Social Distancing on the Stoning Ritual of the Islamic Pilgrimage," KSII Transactions on Internet and Information Systems, vol. 16, no. 6, pp. 1953-1972, 2022. DOI: 10.3837/tiis.2022.06.010. http://itiis.org/journals/tiis/digital-library/25763
